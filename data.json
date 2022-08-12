@@ -1,0 +1,28 @@
+[
+    {
+        "id" : "1",
+        "name": "Akshit",
+        "opA": "A",
+        "opB": "B",
+        "opC": "C",
+        "opD": "D",
+        "rightAns": "A",
+        "score": "5",
+        "isMarked": false
+        
+    },
+    
+    {
+        "id" : "2",
+        "name": "Gupta",
+        "opA": "A",
+        "opB": "B",
+        "opC": "C",
+        "opD": "D",
+        "rightAns": "B",
+        "score": "1",
+        "isMarked": false
+
+    }
+
+]
